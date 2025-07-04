@@ -31,4 +31,4 @@ if user_input:
 st.markdown("---")
 st.markdown("**Built by Harshavardhan**")
 st.markdown("🔗 [LinkedIn](https:/www.linkedin.com/in/harshavardhangh) &nbsp;&nbsp;|&nbsp;&nbsp; "
-            "💻 [GitHub](https://github.com/gh-harsha/30DaysOfAI)")
+            "💻 [GitHub](https://github.com/gh-harsha/30DaysOfAI/tree/main/Day1_Sentiment_App)")
